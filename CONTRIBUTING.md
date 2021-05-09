@@ -33,6 +33,8 @@ In this main repo, the following folders contain developer written codes and the
 The following folders and symbolic links in this main repo are in fact from the base repo. The base repo contains developer written codes only. The patches should be sent to the base repo instead:
 - kubernetes/base
 - kubernetes/config
+- kubernetes/dynamic
+- kubernetes/leaderelection
 - kubernetes/stream
 - kubernetes/watch.
 
